@@ -9,6 +9,7 @@ V sledeči projektni nalogi sem predstavila analizo temperatur v treh mestih (Lj
 ## Navodila
 
 Naložite naslednje knjižnice:
+
     1. `pandas`,
     2. `matplotlib`,
     3. `seaborn`.
